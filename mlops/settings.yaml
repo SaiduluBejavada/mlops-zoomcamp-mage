@@ -1,5 +1,159 @@
+emr_config: null
+features:
+  override: false
+features_defined:
+  add_new_block_v2: true
+  command_center: true
+  compute_management: false
+  custom_design: true
+  data_integration_in_batch_pipeline: true
+  dbt_v2: true
+  display_local_timezone: true
+  global_hooks: true
+  interactions: true
+  notebook_block_output_split_view: true
+  operation_history: true
+  polars: true
+features_override: {}
+help_improve_mage: true
+latest_version: 0.9.72
+name: unit_3_observability
+openai_api_key: null
+pipelines: null
+platform_settings:
+  emr_config: null
+  features:
+    override: false
+  features_defined:
+    add_new_block_v2: true
+    command_center: true
+    compute_management: false
+    custom_design: true
+    data_integration_in_batch_pipeline: true
+    dbt_v2: true
+    display_local_timezone: true
+    global_hooks: true
+    interactions: true
+    notebook_block_output_split_view: true
+    operation_history: true
+    polars: true
+  features_override: {}
+  help_improve_mage: true
+  latest_version: 0.9.72
+  name: unit_3_observability
+  openai_api_key: null
+  pipelines: null
+  platform_settings:
+    projects:
+      autumn_maple: {}
+      black_pine: {}
+      brilliant_destiny: {}
+      crimson_river: {}
+      dauntless_moon: {}
+      elemental_song: {}
+      enchanted_smoke: {}
+      enchanting_snow: {}
+      ethereal_wave: {}
+      exquisite_grass: {}
+      festive_prophecy: {}
+      grateful_flower: {}
+      homework_03:
+        path: homework_03
+      lively_astronomer: {}
+      luminous_dawn: {}
+      lyrical_enchanter: {}
+      primal_bard: {}
+      prismatic_ring: {}
+      radiant_shield: {}
+      radiant_star: {}
+      rough_healer: {}
+      snowy_elixir: {}
+      stylish_elixir: {}
+      unit_1_data_preparation: {}
+      unit_2_training: {}
+      unit_3_observability: {}
+      virtuous_hill: {}
+      whimsical_waterfall: {}
+      zesty_feather: {}
+  project_uuid: f06658fda5e9425b9f5ce217c56adf04
+  projects:
+    autumn_maple: {}
+    black_pine: {}
+    brilliant_destiny: {}
+    crimson_river: {}
+    dauntless_moon: {}
+    elemental_song: {}
+    enchanted_smoke: {}
+    enchanting_snow: {}
+    ethereal_wave: {}
+    exquisite_grass: {}
+    festive_prophecy: {}
+    grateful_flower: {}
+    homework_03:
+      path: homework_03
+    lively_astronomer: {}
+    luminous_dawn: {}
+    lyrical_enchanter: {}
+    primal_bard: {}
+    prismatic_ring: {}
+    radiant_shield: {}
+    radiant_star: {}
+    rough_healer: {}
+    snowy_elixir: {}
+    stylish_elixir: {}
+    unit_1_data_preparation: {}
+    unit_2_training: {}
+    unit_3_observability: {}
+    virtuous_hill: {}
+    whimsical_waterfall: {}
+    zesty_feather: {}
+  remote_variables_dir: null
+  repo_path: /home/src/mlops/unit_3_observability
+  root_project: false
+  settings:
+    active: false
+    uuid: unit_3_observability
+  spark_config: null
+  version: 0.9.71
+  workspace_config_defaults: {}
+project_uuid: f06658fda5e9425b9f5ce217c56adf04
 projects:
-  unit_0_setup: {}
+  autumn_maple: {}
+  black_pine: {}
+  brilliant_destiny: {}
+  crimson_river: {}
+  dauntless_moon: {}
+  elemental_song: {}
+  enchanted_smoke: {}
+  enchanting_snow: {}
+  ethereal_wave: {}
+  exquisite_grass: {}
+  festive_prophecy: {}
+  grateful_flower: {}
+  homework_03:
+    path: homework_03
+  lively_astronomer: {}
+  luminous_dawn: {}
+  lyrical_enchanter: {}
+  primal_bard: {}
+  prismatic_ring: {}
+  radiant_shield: {}
+  radiant_star: {}
+  rough_healer: {}
+  snowy_elixir: {}
+  stylish_elixir: {}
   unit_1_data_preparation: {}
   unit_2_training: {}
   unit_3_observability: {}
+  virtuous_hill: {}
+  whimsical_waterfall: {}
+  zesty_feather: {}
+remote_variables_dir: null
+repo_path: /home/src/mlops/unit_3_observability
+root_project: false
+settings:
+  active: false
+  uuid: unit_3_observability
+spark_config: null
+version: 0.9.71
+workspace_config_defaults: {}
